@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sterilizedmask.com/sitemap.xml
